@@ -9,6 +9,11 @@ I'm **Leonardo Carrilho**, a programming student passionate about technology and
 * 🌐 I work with **HTML and CSS**
 * 📚 Always learning new things about programming and development
 
+### 🌐 Portfolio
+
+Check out my portfolio:
+🔗 https://leo-carrilho.github.io/Protf-lio.v2/
+
 ### 🛠 Technologies
 
 * 🐍 Python
