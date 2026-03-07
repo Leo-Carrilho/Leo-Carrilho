@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Leo-Carrilho/Leo-Carrilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Leonardo Carrilho**, a programming student passionate about technology and software development.
 
-Here are some ideas to get you started:
+### 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning **Python, JavaScript and React**
+* 💻 I also know a bit of **C#**
+* 🌐 I work with **HTML and CSS**
+* 📚 Always learning new things about programming and development
+
+### 🛠 Technologies
+
+* 🐍 Python
+* ⚡ JavaScript
+* ⚛ React
+* 💻 C#
+* 🌐 HTML5
+* 🎨 CSS3
+
+### 📈 GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Carrilho\&show_icons=true\&theme=tokyonight)
+
+### 🌱 Currently studying
+
+* Web Development
+* React
+* APIs
+* Git & GitHub
+
+### ⚡ Fun fact
+
+I enjoy building projects to practice programming and improve my development skills.
+
+---
+
+⭐ Thanks for visiting my profile!
