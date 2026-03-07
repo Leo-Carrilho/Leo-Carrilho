@@ -23,9 +23,9 @@ Check out my portfolio:
 * 🌐 HTML5
 * 🎨 CSS3
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Carrilho\&show_icons=true\&theme=tokyonight)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Carrilho&show_icons=true&theme=tokyonight)
 
 ### 🌱 Currently studying
 
