@@ -25,9 +25,7 @@ Check out my portfolio:
 
 ## 📈 GitHub Stats
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Carrilho&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Carrilho&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leo-Carrilho&show_icons=true&theme=tokyonight)
 
 ### 🌱 Currently studying
 
