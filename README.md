@@ -89,21 +89,8 @@ My main goal is to create interfaces that are not only beautiful, but also easy 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leo-Carrilho&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Leo-Carrilho&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
----
-
-## 🧠 Most Used Languages
-
-<div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Carrilho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Most used languages" />
-</div>
-
-<p align="center">
-  <em>Languages based on public repositories and GitHub usage statistics.</em>
-</p>
 
 ---
 
